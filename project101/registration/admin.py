@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import SignUpRegistration
-
-admin.site.register(SignUpRegistration)
+from .models import UserRegistration
+# Register your models here.
+admin.site.register(UserRegistration)
