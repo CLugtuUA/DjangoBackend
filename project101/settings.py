@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'registration',
     'rest_framework',
     'corsheaders',
+    '127.0.0.1',
+    'localhost',
+    'peitel-backend-vtef.onrender.com',
 ]
 
 MIDDLEWARE = [
